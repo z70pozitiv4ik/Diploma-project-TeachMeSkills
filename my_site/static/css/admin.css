@@ -1,0 +1,12 @@
+#header, .module h2, .module caption, .inline-group h2{
+    background-color: brown;
+}
+
+
+a:link, a:visited, h1{
+    color: black;
+}
+
+#content-related .actionlist{
+    color: red;
+}
